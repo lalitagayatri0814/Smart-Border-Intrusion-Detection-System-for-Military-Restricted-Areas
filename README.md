@@ -1,0 +1,2 @@
+# Smart-Border-Intrusion-Detection-System-for-Military-Restricted-Areas
+This project helps soldiers protect sensitive border areas using a smart intrusion detection system. It monitors motion and vibration in different zones and detects abnormal activity. When an intrusion is found, the system displays real-time alerts and sends email notifications, improving response time and supporting border security.
